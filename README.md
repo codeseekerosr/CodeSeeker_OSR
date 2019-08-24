@@ -2,7 +2,7 @@
 
 # C++                   ![C++](https://user-images.githubusercontent.com/54413974/63588962-637ee300-c5c5-11e9-8141-eaade497b7ee.jpg)
 
-# Python                ![Python_logo](https://user-images.githubusercontent.com/54413974/63589141-f881dc00-c5c5-11e9-84a5-d913c95027bc.jpg)        
+#  [Python](https://github.com/codeseekerosr/Python)                ![Python_logo](https://user-images.githubusercontent.com/54413974/63589141-f881dc00-c5c5-11e9-84a5-d913c95027bc.jpg)        
 
 # Android               ![android_logonew](https://user-images.githubusercontent.com/54413974/63589862-db4e0d00-c5c7-11e9-9836-10def3cbf7f1.jpg)
 
