@@ -1,4 +1,4 @@
-# GO Lang               ![Webp net-resizeimage](https://user-images.githubusercontent.com/54413974/63588760-e2bfe700-c5c4-11e9-91a8-f2456d1152f1.png)
+#[GO Lang](https://github.com/codeseekerosr/GO-Lang)               ![Webp net-resizeimage](https://user-images.githubusercontent.com/54413974/63588760-e2bfe700-c5c4-11e9-91a8-f2456d1152f1.png)
 
 # C++                   ![C++](https://user-images.githubusercontent.com/54413974/63588962-637ee300-c5c5-11e9-8141-eaade497b7ee.jpg)
 
